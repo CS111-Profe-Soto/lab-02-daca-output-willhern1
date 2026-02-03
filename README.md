@@ -22,15 +22,19 @@ One of the interns on the team just got the template back to you [see Main.java]
 
 ## To-Do
 
-1. Complete program documentation at the top (lines 1-4)
+1. Update the JavaDoc
+   - JavaDoc is a specially formatted comment used to generate documentation.
+   - Change the `Program description` text with a description of this program.
+   - Attribute yourself after the `@author` tage by replacing `Your Name` with your name.
+2. Complete program documentation at the top (lines 1-4)
    - This is how the project manager will know when and who completed the prototype.
    - Replace the `Program description` with a description of the program. 
-2. Create appropriate variables, in the appropriate section of the `main` method, to store data from EAC
+3. Create appropriate variables, in the appropriate section of the `main` method, to store data from EAC
    - This is how the backend team will know what kind of data and names to use for the database that will store over 700,000 DACA recipients information.
    - You can fill in your data or some sample data.
-3. Substitute ██ parts with data from variables you created
+4. Substitute ██ parts with data from variables you created
    - This will eventually be upgraded to pull from a database and store the data into the variables you created, so this flexibility is key for scaling up.
-4. Follow all coding convention/style and documentation practices
+5. Follow all coding convention/style and documentation practices
 
 **Once you have completed the lab, commit and push changes to your repository. There are _no tests_ to run for this lab.**
 
